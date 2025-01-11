@@ -17,7 +17,7 @@ return {
 	background = {
 		{
 			source = {
-				File = "/Users/mio-dokuhaki/kali-linux.jpg",
+				File = "/Users/mio-dokuhaki/.config/wezterm/kali-linux.jpg",
 			},
 			opacity = 0.40,
 		},

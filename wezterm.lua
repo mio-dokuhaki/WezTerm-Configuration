@@ -13,6 +13,7 @@ return {
 	window_close_confirmation = "NeverPrompt",
 	window_background_image = wezterm.home_dir .. "Nn38tvd5-wallha.com.jpg",
 	default_cursor_style = "BlinkingBar",
+	hide_mouse_cursor_when_typing = true,
 	background = {
 		{
 			source = {

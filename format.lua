@@ -10,7 +10,7 @@ end)
 
 local HEADER = "" -- 文字化けしちゃってるかもしれませんが、アイコンフォント入ってます。
 
-local SYMBOL_COLOR = { "#ffb2cc", "#a4a4a4" }
+local SYMBOL_COLOR = { "#ffb2cc", "#ffb2cc" }
 local FONT_COLOR = { "#00d200", "#00d200" }
 local BACK_COLOR = "#2d2d2d"
 local HOVER_COLOR = "#434343"
